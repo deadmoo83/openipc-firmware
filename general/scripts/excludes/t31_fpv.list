@@ -1,5 +1,3 @@
-/etc/sensor/gc2053.yaml
-/etc/sensor/gc2053-t31.bin
 /etc/sensor/gc2083.yaml
 /etc/sensor/gc2083-t31.bin
 /etc/sensor/gc4023.yaml
@@ -58,7 +56,6 @@
 /etc/sensor/sc4336-t31.bin
 /etc/sensor/sc5235.yaml
 /etc/sensor/sc5235-t31.bin
-/lib/modules/3.10.14__isvp_swan_1.0__/ingenic/sensor_gc2053_t31.ko
 /lib/modules/3.10.14__isvp_swan_1.0__/ingenic/sensor_gc2083_t31.ko
 /lib/modules/3.10.14__isvp_swan_1.0__/ingenic/sensor_gc4023_t31.ko
 /lib/modules/3.10.14__isvp_swan_1.0__/ingenic/sensor_imx327_t31.ko
