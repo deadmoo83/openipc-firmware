@@ -1,4 +1,4 @@
-This is a special fork of the OpenIPC to use a Wyze Cam V3 as an fpv camera.
+This is a special fork of the OpenIPC to use a Wyze Cam V3 as an FPV camera.
 It has the following changes over stock OpenIPC firmware:
 - Add the missing sensor drivers to firmware build
 - Optimal wfb-ng settings
