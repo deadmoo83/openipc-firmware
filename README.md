@@ -2,7 +2,7 @@ This is a special fork of the OpenIPC to use a Wyze Cam V3 as an fpv camera.
 It has the following changes over stock OpenIPC firmware:
 - Add the missing sensor drivers to firmware build
 - Optimal wfb-ng settings
-- Optimal majestic settings for this sensor
+- Optimal majestic settings
 - Add rlt8152 ethernet driver to firmware build to make bench configuration with most common usb 2.0 to ethernet adapters possible.
 
 ![OpenIPC Logo](https://cdn.themactep.com/images/logo_openipc.png)
