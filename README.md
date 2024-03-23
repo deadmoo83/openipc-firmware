@@ -5,7 +5,10 @@ It has the following changes over stock OpenIPC firmware:
 - Optimal majestic settings
 - Add rtl8152 ethernet driver to firmware build to make bench configuration with most common usb 2.0 to ethernet adapters possible.
 
-Download initial release [here](https://github.com/deadmoo83/openipc-firmware/releases/tag/initial_release)
+Download initial release [here](releases/tag/initial_release)
+
+![Drone Front](PXL_20240323_182738867.MP.jpg)
+![Drone Back](PXL_20240323_182753217.jpg)
 
 
 ![OpenIPC Logo](https://cdn.themactep.com/images/logo_openipc.png)
